@@ -1,0 +1,6 @@
+name: MyCustomFiles
+version: '${version}'
+main: fr.silenthill99.mycustomfiles.Main
+api-version: 1.19
+commands:
+  sethome:
